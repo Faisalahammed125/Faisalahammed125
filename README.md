@@ -1,3 +1,4 @@
+![logo](https://github.com/Faisalahammed125/Faisalahammed125/blob/main/banner_faisal.jpeg)
 <h1 align="center">Hi 👋, I'm Faisal</h1>
 <h3 align="center">A CS Student at NSTU</h3>
 
